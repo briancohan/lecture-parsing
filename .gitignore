@@ -127,3 +127,16 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# fds
+*.bf
+*.binfo
+*.bnd
+*.end
+*.prt5
+*.s3d
+*.sf
+*.sinfo
+*.smv
+*.sz
+*git.txt

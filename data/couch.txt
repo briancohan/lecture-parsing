@@ -1,0 +1,14 @@
+
+ Fire Dynamics Simulator
+
+ Current Date     : March  7, 2021  22:29:32
+ Revision         : FDS6.7.5-0-g71f0256-release
+ Revision Date    : Thu Aug 20 16:19:01 2020 -0400
+ Compiler         : Intel ifort 19.1.1.217
+ Compilation Date : Aug 21, 2020 16:21:21
+
+ MPI Enabled;    Number of MPI Processes:       1
+ OpenMP Enabled; Number of OpenMP Threads:      4
+
+ MPI version: 3.1
+ MPI library version: Intel(R) MPI Library 2019 Update 7 for Linux* OS

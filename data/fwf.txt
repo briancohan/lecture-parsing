@@ -1,0 +1,84 @@
+State/Country   City            Group                                            Url
+Australia       Adelaide        Python Adelaide                                  https://www.meetup.com/pythonadelaide
+Australia       Brisbane        Brisbane PyLadies                                https://www.meetup.com/BrisbanePyLadies
+Australia       Melbourne       PyLadies Melbourne                               https://www.meetup.com/PyLadies-Melbourne
+Bolivia         La Paz          PyLadies La Paz                                  https://www.meetup.com/La-Paz-PyLadies-Meetup
+Canada: BC      Vancouver       PyLadies Vancouver                               https://www.meetup.com/PyLadies-Vancouver
+Canada: ON      Ottawa          Ottawa Python Authors Group                      https://www.meetup.com/ottawapython
+Canada: ON      Toronto         PyLadies Toronto                                 https://www.meetup.com/PyLadies-Toronto
+Canada: ON      Waterloo        WatPy                                            https://www.meetup.com/WatPyMeetup
+Edinburgh       United Kingdom  Python Edinburgh                                 https://www.meetup.com/Python-Edinburgh
+Finland         Helsinki        Helsinki PyLadies                                https://www.meetup.com/Helsinki-PyLadies
+Germany         Berlin          PyBerlin                                         https://www.meetup.com/PyBerlin
+Germany         Berlin          PyLadies Berlin                                  https://www.meetup.com/PyLadies-Berlin
+Germany         Freiburg        Python User Group Freiburg                       https://www.meetup.com/Python-User-Group-Freiburg
+Germany         Hamburg         PyLadies Hamburg                                 https://www.meetup.com/PyLadies-Hamburg
+Germany         München         PyLadies Munich                                  https://www.meetup.com/PyLadiesMunich
+Germany         Nürnberg        Python User Group Nürnberg                       https://www.meetup.com/Python-User-Group-Nuremberg
+Glasgow         United Kingdom  Python Glasgow                                   https://www.meetup.com/Python-Glasgow
+India           Bangalore       PyLadies Bangalore Chapter                       https://www.meetup.com/PyLadies-Bangalore-Chapter
+India           Chennai         PyLadies Chennai                                 https://www.meetup.com/pyladieschennai
+India           Jaipur          PyJaipur - Jaipur Python User Group              https://www.meetup.com/PyJaipur
+India           Pune            PythonPune                                       https://www.meetup.com/PythonPune
+Indonesia       Makassar        mks.py                                           https://www.meetup.com/mks-py
+Ireland         Dublin          PyLadies Dublin                                  https://www.meetup.com/PyLadiesDublin
+London          United Kingdom  PyLadies London                                  https://www.meetup.com/PyLadiesLondon
+Malta           San Äiljan      Python Malta User Group                          https://www.meetup.com/pymalta
+Montevideo      Uruguay         Pyladies UY                                      https://www.meetup.com/PyLadiesUy
+Netherlands     Amsterdam       PyAmsterdam                                      https://www.meetup.com/PyAmsterdam
+Netherlands     Amsterdam       PyLadies Amsterdam                               https://www.meetup.com/PyLadiesAMS
+Oxford          United Kingdom  Oxford Python                                    https://www.meetup.com/oxfordpython
+Portugal        Porto           Python Porto                                     https://www.meetup.com/pyporto
+Slovenia        Ljubljana       Ljubljana Python User Group                      https://www.meetup.com/Ljubljana-Python-Group
+Spain           Alicante        Python Alicante                                  https://www.meetup.com/python_alc
+Spain           Barcelona       PyLadies BCN                                     https://www.meetup.com/PyLadies-BCN
+Spain           Barcelona       Python Barcelona Meetup                          https://www.meetup.com/python-barcelona
+Spain           Girona          Python Girona                                    https://www.meetup.com/PythonGirona
+Spain           Madrid          PyLadies Madrid                                  https://www.meetup.com/PyLadiesMadrid
+Spain           Madrid          Python Madrid                                    https://www.meetup.com/python-madrid
+Spain           Sevilla         Python Sevilla                                   https://www.meetup.com/Python-Sevilla
+Sweden          Stockholm       PyLadiesStockholm                                https://www.meetup.com/PyLadiesStockholm
+Uganda          Kampala         Python Kampala (PyKla)                           https://www.meetup.com/pykampala
+USA: AZ         Phoenix         DesertPy - Phoenix Python Meetup Group           https://www.meetup.com/Phoenix-Python-Meetup-Group
+USA: AZ         Tucson          Tucson Python Meetup                             https://www.meetup.com/Tucson-Python-Meetup
+USA: CA         Los Angeles     PyLadies of Los Angeles                          https://www.meetup.com/Pyladies-LA
+USA: CA         Oakland         PyLadies Oakland/East Bay                        https://www.meetup.com/Oakland-PyLadies
+USA: CA         San Diego       San Diego Python Users Group                     https://www.meetup.com/pythonsd
+USA: CA         San Francisco   PyLadies of San Francisco                        https://www.meetup.com/PyLadiesSF
+USA: CA         San Mateo       Pyninsula -- Python Peninsula Meetup             https://www.meetup.com/Pyninsula-Python-Peninsula-Meetup
+USA: CO         Fort Collins    Something about Python Meetup                    https://www.meetup.com/Something-about-Python-Meetup
+USA: CT         Hartford        The Greater Hartford Python Group                https://www.meetup.com/greaterhartfordpython
+USA: FL         Miami           Miami PyLadies                                   https://www.meetup.com/Miami-PyLadies
+USA: FL         Naples          PyLadies SWFL                                    https://www.meetup.com/PyLadies-SWFL
+USA: FL         Tampa           TampaBay PyLadies                                https://www.meetup.com/TampaBay-PyLadies
+USA: HI         Honolulu        PyHawaii: Python User Group                      https://www.meetup.com/PyHawaii-Python-Users-Group
+USA: IL         Champaign       Py-CU                                            https://www.meetup.com/Python-CU
+USA: IL         Chicago         Chicago PyLadies                                 https://www.meetup.com/Chicago-PyLadies
+USA: KY         Louisville      DerbyPy - Louisville Python Meetup               https://www.meetup.com/derbypy
+USA: MA         Cambridge       The Boston Python User Group                     https://www.meetup.com/bostonpython
+USA: MD         Frederick       Python Frederick                                 https://www.meetup.com/python-frederick
+USA: MI         Grand Rapids    PyLadies Grand Rapids                            https://www.meetup.com/PyLadiesGrandRapids
+USA: MI         Milano          PyLadies Milano                                  https://www.meetup.com/meetup-group-AmxqeOPN
+USA: MN         Minneapolis     PyMNtos - Twin Cities Python User Group          https://www.meetup.com/PyMNtos-Twin-Cities-Python-User-Group
+USA: NC         Durham          Triangle Python Users Group (formerly TriZPUG)   https://www.meetup.com/tripython
+USA: NC         Raleigh         Py-Lambda                                        https://www.meetup.com/py-lambda
+USA: NC         Raleigh         PyLadies RDU                                     https://www.meetup.com/pyladies-rdu
+USA: NE         Omaha           Omaha's Python Users Group                       https://www.meetup.com/Omahas-Python-Users-Group
+USA: NJ         Princeton       PyLadies Princeton                               https://www.meetup.com/PyLadies-Princeton
+USA: NY         New York        NYC PyLadies                                     https://www.meetup.com/NYC-PyLadies
+USA: OH         Cleveland       Cleveland Area Python User Group (CLEpy)         https://www.meetup.com/Cleveland-Area-Python-Interest-Group
+USA: OH         Cleveland       Cleveland PyLadies                               https://www.meetup.com/CLE-PyLadies
+USA: OH         Dayton          Python Dayton - PyDay                            https://www.meetup.com/Python-Dayton-PyDay
+USA: OR         Beaverton       Python Software Foundation Meetup                https://www.meetup.com/Python-Software-Foundation-Meetup
+USA: OR         Hillsboro       Python PDX West                                  https://www.meetup.com/Python-PDX-West
+USA: OR         Portland        Portland Python User Group                       https://www.meetup.com/pdxpython
+USA: PA         Harrisburg      PyLadies Central PA                              https://www.meetup.com/PyLadies-Central-PA
+USA: PA         Philadelphia    The Philadelphia Python Users Group (PhillyPUG)  https://www.meetup.com/phillypug
+USA: PA         Pittsburgh      Pittsburgh Python                                https://www.meetup.com/Python-Pittsburgh
+USA: TX         Austin          PyLadies ATX                                     https://www.meetup.com/PyLadies-ATX
+USA: TX         Houston         Houston PyLadies                                 https://www.meetup.com/Houston_PyLadies
+USA: UT         Salt Lake City  Salt Lake PyLadies                               https://www.meetup.com/Salt-Lake-Pyladies
+USA: VA         Richmond        PyRVA (Python User Group - Richmond, VA)         https://www.meetup.com/PyRVAUserGroup
+USA: WA         Redmond         Redmond Python                                   https://www.meetup.com/Redmond-Python-User-Group
+USA: WA         Seattle         Puget Sound Programming Python (PuPPy)           https://www.meetup.com/PSPPython
+USA: WA         Seattle         Seattle PyLadies                                 https://www.meetup.com/Seattle-PyLadies
